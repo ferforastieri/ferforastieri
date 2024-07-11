@@ -1,7 +1,5 @@
-## Oi! Eu sou a Fernando Forastieri Neto
-
 ## 🚀 About Me
-Olá, sou Fernando, do Brasil, um aspirante a tecnologia de 25 anos. Desde que comecei a estudar programação, e hardware aos 17 anos, sou movido pela paixão por usar a tecnologia para causar um impacto positivo no mundo. 
+Olá, sou Fernando, um aspirante a tecnologia de 25 anos. Desde que comecei a estudar programação, e hardware aos 17 anos, sou movido pela paixão por usar a tecnologia para causar um impacto positivo no mundo. 
 
 Meu objetivo? Trabalhar, aproveitando minhas habilidades para contribuir para o progresso global. Proficiente em:
 
