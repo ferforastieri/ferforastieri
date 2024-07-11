@@ -1,4 +1,19 @@
 ## Oi! Eu sou a Fernando Forastieri Neto
+🚀 About Me
+Hello, I'm Fernando from Brazil, a 26-year-old aspiring technologist. Since delving into programming at 17, I've been driven by a passion for using technology to make a positive impact on the world. 
+
+My goal? To work internationally, leveraging my skills to contribute to global progress. Proficient in:
+
+🛠 Stacks
+Front-end: JavaScript, React, NextJS
+
+Back-end: .NET, Python, NodeJS,
+
+Data-Base: PostgreSQL, SQL Server, MongoDB
+
+DevOps: Jira, AzureDevOps
+
+You can see all my articles and projects here 😄
  <div>
   <a href="https://github.com/Fernando150199">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferforastieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
