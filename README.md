@@ -12,6 +12,8 @@ Data-Base: PostgreSQL, SQL Server, MongoDB
 
 DevOps: Jira, AzureDevOps
 
+## 📊 Estatisticas 
+
  <div>
   <a href="https://github.com/Fernando150199">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferforastieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
