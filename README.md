@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ferforastieri/ferforastieri/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ferforastieri/ferforastieri/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
