@@ -47,9 +47,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ferforastieri/ferforastieri/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
