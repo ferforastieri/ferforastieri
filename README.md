@@ -56,8 +56,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&theme=dark&hide_border=true&langs_count=8" alt="Most used languages" />
+<div align="left" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=8" style="width: 100%; max-width: 100%;" alt="Most used languages" />
 </div>
 
 ###
@@ -101,7 +101,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/viciofer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitterx/twitterx-original.svg" width="52" height="40" alt="x logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
 </div>
 
