@@ -67,24 +67,23 @@
 - **Atacte** - Aplicativo de segurança familiar para servidor pessoal. Gerenciamento de senhas, 2FA, notas seguras e rastreamento familiar.
 - **Valk UI** - Biblioteca de componentes UI para React com CLI interativo e dark mode.
 
-<h3 align="left">Império Cerveja</h3>
+<h3 align="left">Profissionais</h3>
 
-- **Vendedor Gold** - Sistema completo de gestão para vendedores com app mobile e interface web.
-- **Parceiro Gold** - Plataforma para distribuidores com controle de estoque e dashboard analítico.
-- **Garçom Rei** - Sistema de gestão e programa de fidelidade para garçons.
+- **Vendedor Gold** (Império Cerveja) - Sistema completo de gestão para vendedores com app mobile e interface web.
+- **Parceiro Gold** (Império Cerveja) - Plataforma para distribuidores com controle de estoque e dashboard analítico.
+- **Clube Pro Pintor SW** (Sherwin Williams) - Sistema de gestão de cores e produtos com app mobile e programa de fidelidade.
+- **SW Dashboard** (Sherwin Williams) - Dashboard analítico e de métricas em tempo real.
+- **LeoPlus** (Fidelidade) - Programa de fidelidade com parcerias e integração com múltiplos parceiros via APIs.
+- **Legrand** (Fidelidade) - Sistema de gestão e catálogo de produtos com programa de fidelidade.
 
-<h3 align="left">Sherwin Williams</h3>
-
-- **Clube Pro Pintor SW** - Sistema de gestão de cores e produtos com app mobile e programa de fidelidade.
-- **Experiências SW** - Plataforma de experiências e programas de fidelidade.
-- **SW Dashboard** - Dashboard analítico e de métricas em tempo real.
-- **SW Recomenda** - Sistema de recomendações com algoritmos personalizados.
-- **SW Integration** - API REST de integração com documentação Swagger/OpenAPI.
+<p align="left">💡 <a href="https://fertech.vercel.app" target="_blank">Veja mais projetos no meu portfólio</a></p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoforastieri&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Obrigado%20por%20visitar!&fontSize=30&fontColor=fff" alt="Footer" />
+
 </div>
 
 ###
