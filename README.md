@@ -101,7 +101,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/viciofer" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" width="52" height="40" alt="x logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitterx/twitterx-original.svg" width="52" height="40" alt="x logo" />
   </a>
 </div>
 
