@@ -59,7 +59,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" width="49%" height="180" alt="Most used languages" />
   <img width="2%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ferforastieri&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ferforastieri&theme=dark&hide_border=true" width="49%" height="180" alt="GitHub streak stats" />
 </div>
 
 ###
