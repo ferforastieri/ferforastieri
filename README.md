@@ -62,17 +62,29 @@
 
 ###
 
-<h3 align="left">Projetos em Destaque ⭐</h3>
+<h3 align="left">Pessoais</h3>
 
 - **Atacte** - Aplicativo de segurança familiar para servidor pessoal. Gerenciamento de senhas, 2FA, notas seguras e rastreamento familiar.
 - **Valk UI** - Biblioteca de componentes UI para React com CLI interativo e dark mode.
 
-Trabalhei em sistemas de gestão, programas de fidelidade, dashboards analíticos, APIs REST e aplicativos mobile para empresas como Império Cerveja, Sherwin Williams, Legrand e outras.
+<h3 align="left">Império Cerveja</h3>
+
+- **Vendedor Gold** - Sistema completo de gestão para vendedores com app mobile e interface web.
+- **Parceiro Gold** - Plataforma para distribuidores com controle de estoque e dashboard analítico.
+- **Garçom Rei** - Sistema de gestão e programa de fidelidade para garçons.
+
+<h3 align="left">Sherwin Williams</h3>
+
+- **Clube Pro Pintor SW** - Sistema de gestão de cores e produtos com app mobile e programa de fidelidade.
+- **Experiências SW** - Plataforma de experiências e programas de fidelidade.
+- **SW Dashboard** - Dashboard analítico e de métricas em tempo real.
+- **SW Recomenda** - Sistema de recomendações com algoritmos personalizados.
+- **SW Integration** - API REST de integração com documentação Swagger/OpenAPI.
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=fernandoforastieri&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoforastieri&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ###
