@@ -57,9 +57,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" width="49%" height="195" alt="Most used languages" />
-  <img width="2%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ferforastieri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_height=195" width="49%" height="195" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" style="display: inline-block; width: 49%;" height="195" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ferforastieri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_height=195" style="display: inline-block; width: 49%;" height="195" alt="GitHub stats" />
 </div>
 
 ###
