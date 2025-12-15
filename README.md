@@ -56,16 +56,18 @@
 
 ###
 
+<div align="center">
 <table>
   <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" width="100%" height="180" alt="Most used languages" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=ferforastieri&theme=darkhub&no-frame=true&column=3" width="100%" alt="GitHub trophies" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ferforastieri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="100%" height="180" alt="GitHub stats" />
     </td>
   </tr>
 </table>
+</div>
 
 ###
 
