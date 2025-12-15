@@ -52,6 +52,16 @@
 
 ###
 
+<h2 align="left">Linguagens Mais Usadas 📊</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most used languages" />
+</div>
+
+###
+
 <h2 align="left">Projetos em Destaque ⭐</h2>
 
 ###
@@ -91,7 +101,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/viciofer" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" width="40" height="40" alt="x logo" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="40" alt="x logo" />
   </a>
 </div>
 
