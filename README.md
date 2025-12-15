@@ -62,7 +62,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" width="100%" height="180" alt="Most used languages" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferforastieri&theme=github-dark&hide_border=true" width="100%" height="180" alt="GitHub activity graph" />
+      <img src="https://github-profile-trophy.vercel.app/?username=ferforastieri&theme=darkhub&no-frame=true&column=3" width="100%" alt="GitHub trophies" />
     </td>
   </tr>
 </table>
