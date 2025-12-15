@@ -12,7 +12,7 @@
 
 <p align="left">Desenvolvedor fullstack com foco em <strong>frontend</strong> e experiência do usuário. Apaixonado por <strong>jogos</strong>, <strong>hardware</strong> e <strong>infraestrutura</strong>. Trabalho com sistemas complexos, aplicativos mobile, APIs REST e plataformas SaaS completas.</p>
 
-<p align="left">Minha filosofia: <strong>"É muito fácil trabalhar com você"</strong> - prezo por um ambiente leve e descontraído. Acredito que código limpo é uma questão ética.</p>
+<p align="left">Minha filosofia: sempre tive o pensamento de nunca dividir o profissional do pessoal, a vida é só uma. Se eu trabalho com você, você é meu amigo, e se você é meu amigo, isso é o suficiente. <strong>"É muito fácil trabalhar com você"</strong> - essa é a reação que sempre recebo. Prezo por um ambiente leve e descontraído antes de qualquer meta, task ou habilidade.</p>
 
 ###
 
@@ -27,11 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -43,11 +39,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
