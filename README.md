@@ -52,12 +52,14 @@
 
 ###
 
-<h2 align="left">Linguagens Mais Usadas 📊</h2>
+<h2 align="left">Estatísticas do GitHub 📊</h2>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" width="100%" height="180" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" width="49%" height="180" alt="Most used languages" />
+  <img width="2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ferforastieri&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" height="180" alt="GitHub stats" />
 </div>
 
 ###
