@@ -57,16 +57,9 @@
 ###
 
 <div align="center">
-<table style="border: none !important; border-collapse: collapse; border-spacing: 0;">
-  <tr style="border: none;">
-    <td width="50%" style="border: none !important; padding: 0; margin: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" width="100%" height="195" alt="Most used languages" />
-    </td>
-    <td width="50%" style="border: none !important; padding: 0; margin: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ferforastieri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_height=195" width="100%" height="195" alt="GitHub stats" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" width="49%" height="195" alt="Most used languages" />
+  <img width="2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ferforastieri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_height=195" width="49%" height="195" alt="GitHub stats" />
 </div>
 
 ###
