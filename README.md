@@ -57,13 +57,13 @@
 ###
 
 <div align="center">
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" width="100%" height="180" alt="Most used languages" />
+    <td width="50%" style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" width="100%" height="195" alt="Most used languages" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ferforastieri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="100%" height="180" alt="GitHub stats" />
+    <td width="50%" style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ferforastieri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="100%" height="195" alt="GitHub stats" />
     </td>
   </tr>
 </table>
