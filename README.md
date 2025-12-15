@@ -56,8 +56,8 @@
 
 ###
 
-<div align="left" style="width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" style="width: 100%; max-width: 100%; max-height: 200px; height: auto;" alt="Most used languages" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" width="100%" height="120" alt="Most used languages" />
 </div>
 
 ###
