@@ -10,11 +10,9 @@
 
 ###
 
-<p align="left">Desenvolvedor fullstack com foco especial em <strong>frontend</strong> e experiência do usuário, mas trabalhando com todo o stack quando necessário. Tenho experiência no desenvolvimento de sistemas complexos, aplicativos mobile, APIs REST e plataformas SaaS completas.</p>
+<p align="left">Desenvolvedor fullstack com foco em <strong>frontend</strong> e experiência do usuário. Apaixonado por <strong>jogos</strong>, <strong>hardware</strong> e <strong>infraestrutura</strong>. Trabalho com sistemas complexos, aplicativos mobile, APIs REST e plataformas SaaS completas.</p>
 
-<p align="left">Sou apaixonado por <strong>jogos</strong> desde criança - foram eles que despertaram meu interesse inicial pela programação. Também tenho grande interesse em <strong>hardware</strong> e <strong>infraestrutura</strong> (servidores, redes, DevOps), o que me permite trabalhar em projetos end-to-end, desde o desenvolvimento até o deploy e manutenção.</p>
-
-<p align="left">Minha filosofia é simples: <strong>"É muito fácil trabalhar com você"</strong> - essa é a reação que sempre recebo. Prezo por um ambiente leve e descontraído antes de qualquer meta ou task. Acredito que código limpo é uma questão ética e que devemos sempre pensar nas pessoas que vão usar e manter nosso código.</p>
+<p align="left">Minha filosofia: <strong>"É muito fácil trabalhar com você"</strong> - prezo por um ambiente leve e descontraído. Acredito que código limpo é uma questão ética.</p>
 
 ###
 
@@ -64,29 +62,17 @@
 
 ###
 
-<h3 align="left">Projetos Pessoais</h3>
+<h3 align="left">Projetos em Destaque ⭐</h3>
 
-- **Atacte** - Aplicativo completo de segurança familiar para servidor pessoal. Criado após problemas com Bitwarden, oferece gerenciamento de senhas criptografadas, autenticação 2FA, notas seguras e rastreamento de localização familiar. Stack: Vue.js 3, React Native, Expo, Node.js, Express, PostgreSQL, Prisma.
-- **Valk UI** - Biblioteca moderna de componentes UI para React com TypeScript. Inclui CLI interativo, suporte a dark mode e componentes totalmente customizáveis.
+- **Atacte** - Aplicativo de segurança familiar para servidor pessoal. Gerenciamento de senhas, 2FA, notas seguras e rastreamento familiar.
+- **Valk UI** - Biblioteca de componentes UI para React com CLI interativo e dark mode.
 
-<h3 align="left">Projetos Profissionais</h3>
-
-Trabalhei em diversos projetos empresariais incluindo:
-- **Sistemas de gestão completos** - Vendedor Gold, Parceiro Gold (React Native, React 18, NestJS, PostgreSQL)
-- **Programas de fidelidade** - Grendene, GudPoints, Morelli, LeoPlus, Legrand (React, Redux, Express, MySQL)
-- **Dashboards e sistemas analíticos** - SW Dashboard, SW Recomenda, Smart Backoffice (React 18, TypeScript, NestJS, Prisma)
-- **APIs REST** - SW Integration com documentação Swagger/OpenAPI (NestJS, Prisma)
-- **Aplicativos mobile** - React Native, Expo, Ionic/Angular
+Trabalhei em sistemas de gestão, programas de fidelidade, dashboards analíticos, APIs REST e aplicativos mobile para empresas como Império Cerveja, Sherwin Williams, Legrand e outras.
 
 ###
 
-<h2 align="left">Estatísticas 📊</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandoforastieri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoforastieri&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=fernandoforastieri&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ###
