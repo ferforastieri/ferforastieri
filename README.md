@@ -50,19 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
 
-###
-
-<h2 align="left">Estatísticas do GitHub 📊</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferforastieri&layout=compact&theme=dark&hide_border=true&langs_count=6" style="display: inline-block; width: 49%;" height="195" alt="Most used languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ferforastieri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_height=195" style="display: inline-block; width: 49%;" height="195" alt="GitHub stats" />
-</div>
-
-###
-
 <h2 align="left">Projetos em Destaque ⭐</h2>
 
 ###
@@ -71,6 +58,9 @@
 
 - **Atacte** - Aplicativo de segurança familiar para servidor pessoal. Gerenciamento de senhas, 2FA, notas seguras e rastreamento familiar.
 - **Valk UI** - Biblioteca de componentes UI para React com CLI interativo e dark mode.
+- **Miraj of Icarus** - MMORPG reconstruído como plataforma com portal, launcher, cliente C++, API .NET e serviços de jogo distribuídos..
+- **Mimelie** - Comércio digital em monorepo com loja, painel, API transacional, domínio compartilhado e workers de integração.
+
 
 <h3 align="left">Profissionais</h3>
 
